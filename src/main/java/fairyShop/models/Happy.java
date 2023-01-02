@@ -7,4 +7,5 @@ public class Happy extends BaseHelper{
     public Happy(String name) {
         super(name, ENERGY);
     }
+
 }
